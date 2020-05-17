@@ -44,7 +44,7 @@ module.exports = {
                     }
                 }
             }
-            return JSON.stringify(arr);
+            return JSON.stringify(array);
         }
     },
     findMaxOfArray: (array) => {
