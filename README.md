@@ -1,2 +1,2 @@
 # basic-opts
-Libary to perform mathematical calculations easily
+Libary to perform common mathematical calculations and operations easily
