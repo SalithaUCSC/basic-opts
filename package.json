@@ -1,0 +1,26 @@
+{
+  "name": "basic-opts",
+  "version": "1.0.0",
+  "description": "Libary to perform common mathematical calculations and operations easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalithaUCSC/basic-opts.git"
+  },
+  "keywords": [
+    "basic operations",
+    "basic maths",
+    "mathematical operations",
+    "numeric operations",
+    "numeric functions"
+  ],
+  "author": "Salitha Chathuranga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SalithaUCSC/basic-opts/issues"
+  },
+  "homepage": "https://github.com/SalithaUCSC/basic-opts#readme"
+}
