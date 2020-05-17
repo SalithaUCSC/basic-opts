@@ -54,7 +54,7 @@ module.exports = {
         else {
             let max = array[0];
             for(let i =0; i < array.length; i++) {
-                if (arr[i] > max) {
+                if (array[i] > max) {
                     max = array[i];
                 }
                 else {
